@@ -10,7 +10,7 @@ COLOR 0A
 :: DISCORDWEBHOOK = link to the Discord webhook where messages are displayed
 ::
 SET ESPERAENSEGUNDOS=60
-SET DISCORDWEBHOOK=https://discord.com/api/webhooks/1369098451220041830/HDlPhe0UzqybSetPOiYGYaboMNpZKrsD6xVLcJ2WNPf-LN3R3W9DAbhnVESI06EKRpbg
+SET DISCORDWEBHOOK=https://discord.com/api/webhooks/blablabla
 ::
 :::::::::::: DO NOT MODIFY ANYTHING BELOW ::::::::::::
 
