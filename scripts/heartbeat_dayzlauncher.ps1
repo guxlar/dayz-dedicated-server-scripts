@@ -5,7 +5,7 @@ $dzsalQryPort = "27019"
 $uridiscord01 = "https://discord.com/api/webhooks/blablabla"
 $sleepseconds = 60
 
-# :::::::::::: NO MODIFICAR NADA DE ACA PARA ABAJO ::::::::::::
+# :::::::::::: DO NOT MODIFY ANYTHING BELOW ::::::::::::
 $serverPublicIP = (Invoke-WebRequest -Uri "http://ifconfig.me/ip" -UseBasicParsing).Content 
 $uridayzsalauncher = "https://dayzsalauncher.com/api/v1/query/" + $serverPublicIP + "/" + $dzsalQryPort
 
